@@ -3,93 +3,93 @@
 <!-- General Words -->
   <word>
     <key>Settings</key>
-		<translation>Opzioni</translation>
+		<translation>Opciones</translation>
   </word>
   <word>
     <key>Exit</key>
-		<translation>Esci</translation>
+		<translation>Salir</translation>
   </word>
 
 
 <!-- Settings Dialog Buttons -->
   <word>
     <key>Defaults</key>
-		<translation>Predefinito</translation>
+		<translation>Predefinido</translation>
   </word>
   <word>
     <key>Cancel</key>
-		<translation>Cancella</translation>
+		<translation>Cancelar</translation>
   </word>
   <word>
     <key>Save</key>
-		<translation>Salva</translation>
+		<translation>Guardar</translation>
   </word>
   <word>
     <key>Select Key...</key>
-		<translation>Seleziona tasto...</translation>
+		<translation>Seleccione tecla...</translation>
   </word>
 
 
 <!-- Settings Tabs -->
   <word>
     <key>General</key>
-		<translation>Generale</translation>
+		<translation>General</translation>
   </word>
   <word>
     <key>Display</key>
-		<translation>Mostra</translation>
+		<translation>Mostrar</translation>
   </word>
   <word>
     <key>Hotkey Setup</key>
-		<translation>Modifica tasti veloci</translation>
+		<translation>Editar teclas rápidas</translation>
   </word>
   <word>
     <key>Skin Chooser</key>
-		<translation>Modifica Skin</translation>
+		<translation>Cambio de Skins</translation>
   </word>
   <word>
     <key>About</key>
-		<translation>Informazioni</translation>
+		<translation>Información</translation>
   </word>
 
 
 <!-- General Tab -->
   <word>
     <key>Behavior</key>
-		<translation>Azioni</translation>
+		<translation>Acciones</translation>
   </word>
   <word>
     <key>Run on Windows startup</key>
-		<translation>Carica all'avvio di Windows</translation>
+		<translation>Cargar al iniciar Windows</translation>
   </word>
   <word>
     <key>Play sounds</key>
-		<translation>Abilita effetti sonori</translation>
+		<translation>Habilitar efectos de sonido</translation>
   </word>
   <word>
     <key>Custom volume change amount:</key>
-		<translation>Personalizza l'ammontare della variazione di volume</translation>
+		<translation>Personaliza la cantidad de cambio en el volumen</translation>
   </word>
 
   <word>
     <key>Mixer</key>
-		<translation>Mixer</translation>
+		<translation>Mezclador</translation>
   </word>
   <word>
     <key>Control Wave instead of Master Volume</key>
-		<translation>Controlla solo il volume wave invece del volume generale</translation>
+		<translation>Controla sólo el volumen de onda en lugar de volumen general</translation>
   </word>
   <word>
     <key>Use custom mixer program on tray click</key>
-		<translation>Utilizza il mixer prescelto al click sx sull'icona nella systray</translation>
+		<translation>Utilice el mezclador elegido al hacer clic en el icono en la bandeja del sistema</translation>
   </word>
   <word>
     <key>Choose...</key>
-		<translation>Scegli...</translation>
+		<translation>Elegir...</translation>
   </word>
   <word>
     <key>Filename: </key>
-		<translation>Nome del file:</translation>
+		<translation>Nombre del archivo:</translation>
   </word>
 
   <word>
@@ -98,187 +98,187 @@
   </word>
   <word>
     <key>Load</key>
-		<translation>Carica</translation>
+		<translation>Idioma</translation>
   </word>
 
 
 <!-- Display Tab -->
   <word>
     <key>Visibility</key>
-		<translation>Apparenza</translation>
+		<translation>Apariencia</translation>
   </word>
   <word>
     <key>Keep above other windows</key>
-		<translation>Mantieni sempre in primo piano</translation>
+		<translation>Mantenga siempre en la parte superior</translation>
   </word>
   <word>
     <key>Display icon in system tray</key>
-		<translation>Mostra icona sulla systray</translation>
+		<translation>Mostrar icono en la bandeja del sistema</translation>
   </word>
   <word>
     <key>Hide when other programs are fullscreen</key>
-		<translation>Nascondi quando altri programmi sono a pieno schermo</translation>
+		<translation>Ocultar cuando otros programas están en pantalla completa</translation>
   </word>
   <word>
     <key>Fade Delay:</key>
-		<translation>Dissolvenza ritardata:</translation>
+		<translation>Desvanecimiento retardado:</translation>
   </word>
   <word>
     <key>Fade Speed:</key>
-		<translation>Dissolvenza veloce:</translation>
+		<translation>Fading rápida:</translation>
   </word>
 
   <word>
     <key>Position</key>
-		<translation>Posizione</translation>
+		<translation>Posición</translation>
   </word>
   <word>
     <key>Display on Monitor:</key>
-		<translation>Mostra sul monitor:</translation>
+		<translation>Visualización en el monitor:</translation>
   </word>
   <word>
     <key>Default</key>
-		<translation>Predefinito</translation>
+		<translation>Defecto</translation>
   </word>
   <word>
     <key>Centered</key>
-		<translation>Centrato</translation>
+		<translation>Centrado</translation>
   </word>
   <word>
     <key>Custom Location:</key>
-		<translation>Posizione personalizzata:</translation>
+		<translation>Posición personalizada:</translation>
   </word>
 
 
 <!-- Hotkey tab -->
   <word>
     <key>Function</key>
-		<translation>Funzione</translation>
+		<translation>Función</translation>
   </word>
   <word>
     <key>Keys</key>
-		<translation>Tasti</translation>
+		<translation>Tecla</translation>
   </word>
 
   <word>
     <key>Add</key>
-		<translation>Aggiungi</translation>
+		<translation>Añadir</translation>
   </word>
   <word>
     <key>Delete</key>
-		<translation>Cancella</translation>
+		<translation>Cancelar</translation>
   </word>
 
   <word>
     <key>Action:</key>
-		<translation>Azione:</translation>
+		<translation>Acción:</translation>
   </word>
   <word>
     <key>Volume Up</key>
-		<translation>Volume alto</translation>
+		<translation>Subir volumen</translation>
   </word>
   <word>
     <key>Volume Down</key>
-		<translation>Volume basso</translation>
+		<translation>bajar volumen</translation>
   </word>
   <word>
     <key>Mute</key>
-		<translation>Muto</translation>
+		<translation>Silencio</translation>
   </word>
   <word>
     <key>Eject</key>
-		<translation>Espelli</translation>
+		<translation>Expulsar</translation>
   </word>
   <word>
     <key>Settings Window</key>
-		<translation>Apri finestra Opzioni</translation>
+		<translation>Abrir ventana de opciones</translation>
   </word>
 
   <word>
     <key>Drive:</key>
-		<translation>Disco:</translation>
+		<translation>Unidad:</translation>
   </word>
   <word>
     <key>Hotkey Chooser</key>
-		<translation>Seleziona tasti veloci</translation>
+		<translation>Seleccione teclas rápidas</translation>
   </word>
   <word>
     <key>Key Combination:</key>
-		<translation>Combinazione tasti</translation>
+		<translation>Combinación de teclas</translation>
   </word>
   <word>
     <key>Press a key!</key>
-		<translation>Premi un tasto!</translation>
+		<translation>Presione un tecla</translation>
   </word>
 
 
 <!-- Skin tab -->
   <word>
     <key>Available Skins</key>
-		<translation>Skin disponibile</translation>
+		<translation>Skins disponibles</translation>
   </word>
   <word>
     <key>Open Skin Folder</key>
-		<translation>Apri la cartella Skin</translation>
+		<translation>Abrir carpetas Skins</translation>
   </word>
 
   <word>
     <key>Skin Information</key>
-		<translation>Informazioni sulla Skin</translation>
+		<translation>Información sobre Skin</translation>
   </word>
   <word>
     <key>Author:</key>
-		<translation>Autore:</translation>
+		<translation>Autor:</translation>
   </word>
   <word>
     <key>Version:</key>
-		<translation>Versione:</translation>
+		<translation>Version:</translation>
   </word>
   <word>
     <key>Skin Format Version:</key>
-		<translation>Versione del formato della Skin:</translation>
+		<translation>Versión formato de Skins:</translation>
   </word>
   <word>
     <key>Author's Webpage</key>
-		<translation>Homepage dell'autore</translation>
+		<translation>Página de autor</translation>
   </word>
 
 
 <!-- About tab -->
   <word>
     <key>Version</key>
-		<translation>Versione</translation>
+		<translation>Version</translation>
   </word>
   <word>
     <key>lang_author</key>
-		<translation>Traduzione in italiano: Antonio La Rocca</translation>
+		<translation>Traducción al Español: Morpi</translation>
   </word>
   <word>
     <key>lang_module</key>
-		<translation>Modulo italiano caricato ~ 3RVX 2.0 beta ~ V2B4</translation>
+		<translation>Módulo español cargado ~ 3RVX 2.0 beta ~ V2B4</translation>
   </word>
 
 
 <!-- Messages -->
   <word>
     <key>Load Defaults</key>
-		<translation>Carica i settaggi predefiniti</translation>
+		<translation>Cargar ajustes por defecto</translation>
   </word>
   <word>
     <key>All settings will be lost.  Continue?</key>
-		<translation>Tutti i settaggi andranno persi. Continuare?</translation>
+		<translation>Se perderán todos los ajustes. ¿Continuar?</translation>
   </word>
   <word>
     <key>Skin Error</key>
-		<translation>Errore Skin</translation>
+		<translation>error en la skin</translation>
   </word>
   <word>
     <key>Couldn't load skin. Try loading the default skin?</key>
-		<translation>Non posso caricare la skin. Provare a caricare la skin predefinita?</translation>
+		<translation>No puedo cargar la skin. ¿cargar la skin por defecto?</translation>
   </word>
   <word>
     <key>Couldn't load skin XML.  Check the file for syntax errors.</key>
-		<translation>Non posso caricare la skin xml. Controlla il file, possibili errori di sintassi</translation>
+		<translation>No puedo cargar el archivo xml de la skin. Comprobar archivo. Posibles errores de sintaxis</translation>
   </word>
 
 </ArrayOfWord>
